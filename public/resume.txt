@@ -1,0 +1,62 @@
+Sara Burbank
+(804) 837 8728 | saralealsilverio@gmail.com | https://github.com/LealSilverio | www.linkedin.com/in/sara-s-burbank
+
+AREAS OF EXPERTISE
+•	Technical: HTML, JavaScript, TypeScript, CSS, C#, Python, VBA, Java, MySQL, PostgreSQL, MongoDB, .NET, React, Svelte, Sass, Node.js, Next.js, Express.js
+•	Design: UX/UI Design, typography, animation, printmaking, color theory, layout and logo design
+•	Tolls: Visual Studio Code, Visual Studio, JetBrains Rider, GitHub, RESTful APIs, Aws, Figma, WordPress, Adobe Creative Suite, MS Office Suite
+•	Soft skills: teamwork, communication, problem-solving, critical thinking, adaptability, attention to detail
+•	Languages: Portuguese, English
+ 
+EXPERIENCE
+Engineering Intern	August 2024 - March 2025
+Alfa Laval	Warrington, PA
+•	Authored documentation for field practices, improving team collaboration and onboarding efficiency for new hirers by 10%
+•	Led software update initiatives in C#, ensuring seamless integration with Factory Talk Optix during mockup process, improving user experience
+•	Documented database interactions during integration with Factory Talk Optix
+•	Programmed scripts for database population during the integration with Factory Talk Optix
+•	Collaborated with senior engineers to improve software tools and user workflows
+•	Trained other interns in video documentation and company new tools for 4 days
+•	Worked with decanters for oil separation and wastewater operations
+Quality Control and Logistics Associate	September 2021 - December 2021
+The Occasions Group	Rexburg, ID
+•	Managed quality control of thousands of products while training other employees daily
+•	Maintained accuracy and integrity during high-volume order processing
+•	Trained team members in quality standards and process documentation
+•	Packed and shipped products in an organized fashion in 3 areas of finalizing department
+•	Met tight deadlines while managing hundreds of orders during busy seasons
+ 
+PROJECTS
+Heart Set
+Frontend Development| MySQL, MySQL Workbench	October 2023
+•	Designed and developed the frontend development of a website to help decrease heartbeats higher than 100 bpm in 24 hours
+•	Got second place with the Heart Set website on a Hackathon competition while working in teams
+•	Dealt with stresses such as time pressure and coding challenges with only 20 minutes of sleep in 30 hours
+
+UX Dating App
+Team Lead | Dart, Firebase, Android Studio	
+•	Led a 4-person team in the design and development of a real-time dating app using Firebase as the backend
+•	Structured NoSQL schema for user profiles, match preferences, chats, and real-time notifications
+•	Organized every other day stand-ups and code reviews to maintain progress and ensure code quality
+
+Pokémon Gen I Database
+Solo Project | MySQL, MySQL Workbench	October 2023
+•	Designed and developed the frontend development of a website to help decrease heartbeats higher than 100 bpm in 24 hours
+•	Got second place with the Heart Set website on a Hackathon competition while working in teams
+•	Dealt with stresses such as time pressure and coding challenges with only 20 minutes of sleep in 30 hours
+Solid Snake
+Solo Project | HTML5, JavaScript	April 2022
+•	Built a classic snake game from scratch using vanilla JavaScript and HTML5
+•	Implemented game mechanics such as movement, food generation, and collision detection within 5 days
+•	Tested and debugged to ensure smooth performance on 3 different views and browsers
+ 
+EDUCATION
+Software Engineering Bachelor	September 2020 - Present
+Brigham Young University - Idaho	Idaho
+•	Minor in Web Development
+•	Relevant Coursework: Backend Development, Frontend Development, Web Services, Advanced CSS, Database Design and Development, Programming with Data Structures, Technical Teamwork
+Frontend Web Development certificate	April 2023
+Brigham Young University - Idaho	Idaho
+Graphic Design Associates	July 2018 - July 2020
+Brightpoint Community College	Virginia
+•	Relevant Coursework: Graphic Design, Adobe InDesign, Photoshop, and Illustrator, Typography
