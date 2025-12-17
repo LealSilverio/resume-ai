@@ -3,8 +3,8 @@ import JobInput from "./components/JobInput";
 export default function Home() {
   return (
     <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex max-h-screen w-full max-w-3xl flex-col items-center justify-between py-16 px-16 bg-white dark:bg-black sm:items-start">
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
+      <main className="flex max-h-screen w-full max-w-7xl flex-col items-center justify-between py-16 px-16 bg-white dark:bg-black sm:items-start">
+        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left w-full">
           <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
             Needs help tailoring your Resume?
           </h1>
@@ -13,7 +13,9 @@ export default function Home() {
             resume that stands out to recruiters!
           </p>
         </div>
-        <JobInput />
+        <div className="mt-8">
+          <JobInput />
+        </div>
       </main>
     </div>
   );
@@ -38,3 +40,6 @@ export default function Home() {
 // - Physical stamina to perform repetitive tasks and lift heavy objects
 // - Strong attention to detail and ability to follow instructions accurately
 // - Good balance and being comfortable with heights is a plus
+
+
+// Seeking a front desk Medical Receptionist for a busy medical practice. The job entails scheduling appointments, checking patients in and out of the clinic, verifying patient information and insurance, collecting patient co-pays and balances, mailing appointment reminder postcards. Looking for someone with excellent people skills. Needs to be very detail-oriented. Works well with others in a team-oriented environment. Dependability is a must. The office is closed on weekends and holidays.
