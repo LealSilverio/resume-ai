@@ -50,7 +50,7 @@ export default function Page() {
   };
 
   return (
-    <div className="lg:w-1/2 flex flex-col gap-4">
+    <>
       <div className="mb-4 mt-10">
         <h2 className="text-xl font-semibold dark:text-zinc-200">Job Description</h2>
         <textarea 
@@ -80,6 +80,6 @@ export default function Page() {
           </div>
         )}
       </div>
-    </div>
+    </>
   );
 }

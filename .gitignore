@@ -23,6 +23,8 @@
 # misc
 .DS_Store
 *.pem
+public/demo.mp4
+public/cse310_module_submit_online.docx
 
 # debug
 npm-debug.log*

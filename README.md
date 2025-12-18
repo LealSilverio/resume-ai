@@ -1,21 +1,15 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This AI Resume Tailor is a web app to help you customize your resume for any job description using artificial intelligence. Users upload their resume and paste a job posting, and the AI analyzes both to generate a tailored resume that highlights relevant skills and experience. I made this software is to reduce the time and effort to apply for jobs and to learn ways to implement AI in my programs.
 
-{Provide a description of the software that you wrote.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/z1DlikxbvVQ)
 
 # Development Environment
 
 - VSCode
 - Next.js 16.0.7
 - Tailwind CSS 
-- Open AI Response API
+- OpenRouter API
 
 # Useful Websites
 
@@ -25,8 +19,9 @@
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Parse pdf and docx files to txt so the AI accepts other file types other than txt
+- Add Tailored Cover Letter based on description
+- Tailored Resume Download (as pdf, docx, txt)
+- Change the formatting of the resume
+- Job recommendations that are similar to given job description
+- Add loading animations and better UI
